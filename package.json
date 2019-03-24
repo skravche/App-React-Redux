@@ -2,7 +2,7 @@
   "name": "phone-catalog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://skravche.github.io/phones",
+  "homepage": "https://skravche.github.io/App-React-Redux/",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
