@@ -1,13 +1,13 @@
 {
-  "main.css": "/App-React-Redux/static/css/main.9e6b73b7.chunk.css",
-  "main.js": "/App-React-Redux/static/js/main.9e07925d.chunk.js",
-  "main.js.map": "/App-React-Redux/static/js/main.9e07925d.chunk.js.map",
-  "runtime~main.js": "/App-React-Redux/static/js/runtime~main.79ee2e73.js",
-  "runtime~main.js.map": "/App-React-Redux/static/js/runtime~main.79ee2e73.js.map",
-  "static/js/2.9df91dcc.chunk.js": "/App-React-Redux/static/js/2.9df91dcc.chunk.js",
-  "static/js/2.9df91dcc.chunk.js.map": "/App-React-Redux/static/js/2.9df91dcc.chunk.js.map",
-  "index.html": "/App-React-Redux/index.html",
-  "precache-manifest.544b6cccb3dce807e156a7b0b5e6b569.js": "/App-React-Redux/precache-manifest.544b6cccb3dce807e156a7b0b5e6b569.js",
-  "service-worker.js": "/App-React-Redux/service-worker.js",
-  "static/css/main.9e6b73b7.chunk.css.map": "/App-React-Redux/static/css/main.9e6b73b7.chunk.css.map"
+  "main.css": "/phones/static/css/main.9e6b73b7.chunk.css",
+  "main.js": "/phones/static/js/main.9e07925d.chunk.js",
+  "main.js.map": "/phones/static/js/main.9e07925d.chunk.js.map",
+  "runtime~main.js": "/phones/static/js/runtime~main.aa7f1ad4.js",
+  "runtime~main.js.map": "/phones/static/js/runtime~main.aa7f1ad4.js.map",
+  "static/js/2.9df91dcc.chunk.js": "/phones/static/js/2.9df91dcc.chunk.js",
+  "static/js/2.9df91dcc.chunk.js.map": "/phones/static/js/2.9df91dcc.chunk.js.map",
+  "index.html": "/phones/index.html",
+  "precache-manifest.b3e456995ef586101fa154d8f1ab4011.js": "/phones/precache-manifest.b3e456995ef586101fa154d8f1ab4011.js",
+  "service-worker.js": "/phones/service-worker.js",
+  "static/css/main.9e6b73b7.chunk.css.map": "/phones/static/css/main.9e6b73b7.chunk.css.map"
 }
